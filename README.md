@@ -167,7 +167,7 @@ These summaries illustrate how detailed records can be organized into grouped ta
 
 Relationships were created and reviewed in Power BI using **Manage Relationships** and **Model View**.
 
-### 🔗 Relationships Documented
+### 🔗 Relationships
 
 | Tables | Relationship Key | Cardinality shown in the project |
 |---|---|---|
